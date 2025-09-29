@@ -1,0 +1,14 @@
+{
+    "intents":[
+        {"tag": "greeting",
+        "patterns":["salut", "bonjour", "ça va?"],
+        "responses":["hello", "ça va et toi?"]
+        }, 
+        {
+        "tag": "age",
+        "patterns":["Quel âge as-tu?", "C'est quand ton anniversaire?", "Quand es-tu né?"],
+        "responses":[ "J'ai 25 ans", "Je suis né en 1996"]
+        } 
+    ]
+}
+
